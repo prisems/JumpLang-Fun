@@ -1,0 +1,9 @@
+# a calculator
+
+a = 1 # enter value 1
+b = 1 # enter value 2
+
+echo a+b
+echo a-b
+echo a*b
+echo a/b
